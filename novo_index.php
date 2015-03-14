@@ -105,7 +105,7 @@
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
-                                    <a class="btn-link pull-left hidden-xs " href="#" ><i class="fa fa-github"></i> Código Fonte</a>
+                                    <a class="btn-link pull-left hidden-xs " href="#" ><i class="fa fa-github"></i> Código Fonte (Android) </a>
                                     <a class="btn btn-default pull-right" href="#"><i class="fa fa-group"></i> Em Breve !</a>
                                 </div>
                             </div>

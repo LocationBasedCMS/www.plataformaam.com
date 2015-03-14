@@ -93,6 +93,28 @@
             </div>
             <div class="row">
                 <div class="container-fluid">
+                    
+                    <div class="col-lg-4  col-md-4">
+
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">
+                                <h2  class="panel-title" ><i class="fa fa-cogs"></i> Editor </h2>
+                            </div>
+                            <div class="panel-body text-justify">
+                                Edite Veículos de comunicação lcativos adequados a suas necessidades, com as regras específicas para usa arquitetura pedagógica.
+                            </div>
+                            <div class="panel-footer">
+                                <div class="container-fluid text-justify">
+                                    <div class="container-fluid text-justify">
+                                        <a class="btn-link  center-block hidden-xs " href="https://github.com/LocationBasedCMS/editor.plataformaam.com" ><i class="fa fa-github"></i> Código Fonte</a>
+                                    </div>
+                                    <a class="btn btn-primary center-block" href="http://editor.plataformaam.com"><i class="fa fa-edit"></i> Editar!</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>                    
+                    
 
                     <div class="col-lg-4  col-md-4  ">
 
@@ -105,8 +127,12 @@
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
-                                    <a class="btn-link pull-left hidden-xs " href="#" ><i class="fa fa-github"></i> Código Fonte</a>
-                                    <a class="btn btn-default pull-right" href="#"><i class="fa fa-group"></i> Em Breve !</a>
+                                    <div class="container-fluid text-justify">
+                                        <a class="btn-link pull-left hidden-xs " href="https://github.com/LocationBasedCMS/android.mobile.plataformaam.com" ><i class="fa fa-github"></i> Android </a>
+                                        <a class="btn-link pull-right hidden-xs " href="https://github.com/LocationBasedCMS/api.plataformaam.com" ><i class="fa fa-github"></i> WebService </a>
+                                        
+                                    </div>
+                                    <a class="btn btn-default center-block" href="#"><i class="fa fa-group"></i> Em Breve !</a>
                                 </div>
                             </div>
                         </div>                      
@@ -124,32 +150,17 @@
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
-                                    <a class="btn-link pull-left hidden-xs " href="#" ><i class="fa fa-github"></i> Código Fonte</a>
-                                    <a class="btn btn-default pull-right" href="#"><i class="fa fa-eye"></i> Em Breve !</a>
+                                    <div class="container-fluid text-justify">
+                                        <a class="btn-link center-block hidden-xs " href="https://github.com/LocationBasedCMS/painelpedagogico.plataformaam.com" ><i class="fa fa-github"></i> Código Fonte</a>
+                                    </div>
+                                    <a class="btn btn-primary center-block" href="http://painelpedagogico.plataformaam.com"><i class="fa fa-eye"></i> Avaliar !</a>
                                 </div>   
                             </div>
                         </div>                              
 
                     </div>
 
-                    <div class="col-lg-4  col-md-4">
-
-                        <div class="panel panel-primary">
-                            <div class="panel-heading">
-                                <h2  class="panel-title" ><i class="fa fa-cogs"></i> Editor </h2>
-                            </div>
-                            <div class="panel-body text-justify">
-                                Edite Veículos de comunicação lcativos adequados a suas necessidades, com as regras específicas para usa arquitetura pedagógica.
-                            </div>
-                            <div class="panel-footer">
-                                <div class="container-fluid text-justify">
-                                    <a class="btn-link  pull-left hidden-xs " href="https://github.com/b3u/PlataformaAM" ><i class="fa fa-github"></i> Código Fonte</a>
-                                    <a class="btn btn-primary pull-right" href="http://editor.plataformaam.com"><i class="fa fa-edit"></i> Editar!</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>                
+                     
                 </div>
 
 
@@ -164,9 +175,10 @@
                                     <h2  class="panel-title" ><i class="fa fa-files-o"></i> Códigos Fontes</h2>
                                 </div>
                                 <div class="panel-body text-justify">
-                                    <p><a class="btn-link" href="#" ><i class="fa fa-github"></i> Cliente Móvel </a></p>
-                                    <p><a class="btn-link" href="#" ><i class="fa fa-github"></i> Painel Pedagógico </a></p>
-                                    <p><a class="btn-link" href="https://github.com/b3u/PlataformaAM/tree/master/VCOMeditor" ><i class="fa fa-github"></i> Editor de VCLoc </a></p>
+                                    <p><a class="btn-link" href="https://github.com/LocationBasedCMS/android.mobile.plataformaam.com" ><i class="fa fa-github"></i> Cliente Móvel (Android) </a></p>
+                                    <p><a class="btn-link" href="https://github.com/LocationBasedCMS/api.plataformaam.com" ><i class="fa fa-github"></i> Cliente Móvel (Webservice) </a></p>
+                                    <p><a class="btn-link" href="https://github.com/LocationBasedCMS/painelpedagogico.plataformaam.com" ><i class="fa fa-github"></i> Painel Pedagógico </a></p>
+                                    <p><a class="btn-link" href="https://github.com/LocationBasedCMS/editor.plataformaam.com" ><i class="fa fa-github"></i> Editor de VCLoc </a></p>
                                 </div>
                                 <div class="panel-footer  text-justify">
                                     <p><a target="_blank" href='http://lied.inf.ufes.br/' class="btn-link"><i class="fa fa-university" ></i> LIEd - UFES</a></p>
