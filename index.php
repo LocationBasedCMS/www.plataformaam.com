@@ -101,7 +101,19 @@
                                 <h2  class="panel-title" ><i class="fa fa-cogs"></i> Editor </h2>
                             </div>
                             <div class="panel-body text-justify">
-                                Edite Veículos de comunicação lcativos adequados a suas necessidades, com as regras específicas para usa arquitetura pedagógica.
+                                <ol>
+                                    <li>
+                                        Crie novos veículos de comunicação baseados em localização,
+                                    </li>
+                                    <li>
+                                        Divida ele em áreas de interação, e especifique funcionamento de acordo com suas regras,
+                                    </li>
+                                    <li>
+                                        Crie papeis e monte grupos de estudantes !
+                                    </li>
+                                </ol>
+
+                                  
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
@@ -123,7 +135,17 @@
                                 <h2 class="panel-title" ><i class="fa fa-mobile"></i> Cliente Móvel </h2>
                             </div>
                             <div class="panel-body text-justify">
-                                Estimule seus estudantes com passeios pedagógico. O Cliente  Móvel permitirá a navegação por um Veículo de comunicação Locativo, interagindo com um ambiente de realidade aumentada a partir das coordenadas do GPS.
+                                <ol>
+                                    <li>
+                                        Abra o mapa e escolha um Veículo de Comunicação,
+                                    </li>
+                                    <li>
+                                        Explore as Regras, esplore as Áreas de Interação,
+                                    </li>
+                                    <li>
+                                        Publique e Responda, Interaja !
+                                    </li>
+                                </ol>
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
@@ -132,7 +154,7 @@
                                         <a class="btn-link pull-right hidden-xs " href="https://github.com/LocationBasedCMS/api.plataformaam.com" ><i class="fa fa-github"></i> WebService </a>
                                         
                                     </div>
-                                    <a class="btn btn-default center-block" href="#"><i class="fa fa-group"></i> Em Breve !</a>
+                                    <a class="btn btn-default center-block" href="#"><i class="fa fa-group"></i> (Em Breve) Interagir !</a>
                                 </div>
                             </div>
                         </div>                      
@@ -146,7 +168,17 @@
                                 <h2  class="panel-title" ><i class="fa fa-graduation-cap"></i> Painel Pedagógico </h2>
                             </div>
                             <div class="panel-body text-justify">
-                                Acompanhe os estudantes em seu veículo de comunicação locativo. Fique por dentro das atualizações e interações e tenha uma visão em tempo real do que acontece.
+                                <ol>
+                                    <li>
+                                        Acompanhe o andamento de sua aula,
+                                    </li>
+                                    <li>
+                                        Acesse o mapa e veja os estudantes,
+                                    </li>
+                                    <li>
+                                        O que será que eles estão produzindo no Veículo de Comunicação ?
+                                    </li>
+                                </ol>
                             </div>
                             <div class="panel-footer">
                                 <div class="container-fluid text-justify">
